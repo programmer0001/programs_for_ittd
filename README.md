@@ -1,7 +1,7 @@
-![1](https://user-images.githubusercontent.com/39346599/114613051-89319200-9cab-11eb-840f-90556bd8a936.jpg)
 # programs_for_ittd
-![4](https://user-images.githubusercontent.com/39346599/114613085-9189cd00-9cab-11eb-9f74-d326b4da1dd3.jpg)
-![3](https://user-images.githubusercontent.com/39346599/114613089-92226380-9cab-11eb-988e-31240a42ae87.jpg)
-![2](https://user-images.githubusercontent.com/39346599/114613090-92226380-9cab-11eb-8542-61858149522e.jpg)
-![5](https://user-images.githubusercontent.com/39346599/114613092-92bafa00-9cab-11eb-87ae-6dd9823733ac.jpg)
 
+![1](https://user-images.githubusercontent.com/39346599/114615244-1d045d80-9cae-11eb-988a-b3ec045c2b8d.jpg)
+![2](https://user-images.githubusercontent.com/39346599/114615234-1b3a9a00-9cae-11eb-80b6-3d7221cb33a5.jpg)
+![3](https://user-images.githubusercontent.com/39346599/114615238-1c6bc700-9cae-11eb-8325-9568cae4c8fe.jpg)
+![4](https://user-images.githubusercontent.com/39346599/114615239-1c6bc700-9cae-11eb-9565-4b62b01a8d04.jpg)
+![5](https://user-images.githubusercontent.com/39346599/114615241-1d045d80-9cae-11eb-9799-c6e095dd5e80.jpg)
