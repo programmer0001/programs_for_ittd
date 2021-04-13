@@ -1,4 +1,4 @@
-# programs_for_ittd
+## Програмне забезпечення для програмістів
 
 ![1](https://user-images.githubusercontent.com/39346599/114615244-1d045d80-9cae-11eb-988a-b3ec045c2b8d.jpg)
 ![2](https://user-images.githubusercontent.com/39346599/114615234-1b3a9a00-9cae-11eb-80b6-3d7221cb33a5.jpg)
